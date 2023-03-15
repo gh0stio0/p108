@@ -1,0 +1,35 @@
+body{
+    font-family: 'Tilt Neon', cursive;
+    background:rgb(63, 88, 67) ;
+}
+.header_div{
+    background:white ;
+    color: rgb(96, 111, 93);
+}
+.header_div p {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:rgb(29, 40, 29);
+   letter-spacing:2px;
+   font-size:12px ;
+   font-weight:bold ;
+}
+.main_div button{
+    font-family: 'Tilt Neon', cursive;
+    margin-top:30px ;
+    width:130px ;
+    font-weight:bolder ;
+    letter-spacing:3px ;
+}
+.copy_right_footer{
+    position:fixed;
+    color:grey ;
+    bottom: 0;
+    width:100% ;
+    font-size:18px ;
+    background-color:white;
+    line-height:3 ;
+    text-align:center;
+    text-shadow:5px 5px 5px grey;
+
+
+}
